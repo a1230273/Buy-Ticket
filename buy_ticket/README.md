@@ -4,8 +4,8 @@
 
 ### 問題描述
 
-####Input: 一個字串s
-####Output: 
+#### Input: 一個字串s
+#### Output: 
 -	當字串符合”幫我訂xx站到xx站的高鐵票”時,呼叫訂票函式buy_ticket(<起站>,<訖站>),填入起訖站名
 -	當字串不符合規則1時回傳”not this skill”
 -	當字串符合規則1.旦車站名不在車站清單時回傳”station not exist”
